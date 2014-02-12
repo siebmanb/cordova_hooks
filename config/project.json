@@ -1,0 +1,12 @@
+{
+"dev":
+	{
+	"ua" : "com.urbanairship.in_production' value='false",
+	"debuggable" : "android:debuggable=\"true\""
+	},
+"prod":
+	{
+	"ua" : "com.urbanairship.in_production' value='true",
+	"debuggable" : "android:debuggable=\"false\""
+	}
+}
